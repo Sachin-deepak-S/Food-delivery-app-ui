@@ -18,7 +18,7 @@ Here are some exported screens from the prototype:
 
 ![Home Screen](ui-screenshots/Home-V1.png)  
 ![Login Screen](ui-screenshots/Login-Empty.png)  
-![Dashboard](ui-screenshots/Splash-Page-01.png)  
+![Dashboard](https://github.com/Sachin-deepak-S/Food-delivery-app-ui/blob/main/ui%20Screenshots/Splash%20Page_01.png) 
 
 
 

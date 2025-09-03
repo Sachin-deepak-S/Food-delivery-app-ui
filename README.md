@@ -16,9 +16,10 @@ It is a simple design project where I started exploring the fundamentals of **pr
 ## 📸 Screenshots
 Here are some exported screens from the prototype:
 
-![Home Screen](ui Screenshots/Home V.1)  
-![Login Screen](ui Screenshots/Log In_Empty.png)  
-![Dashboard](ui Screenshots/Splash Page_01)  
+![Home Screen](ui-screenshots/Home-V1.png)  
+![Login Screen](ui-screenshots/Login-Empty.png)  
+![Dashboard](ui-screenshots/Splash-Page-01.png)  
+
 
 
 👉 [View All Screenshots](ui Screenshots/)

@@ -14,12 +14,14 @@ It is a simple design project where I started exploring the fundamentals of **pr
 ---
 
 ## 📸 Screenshots
-Here are some exported screens from the prototype (replace with your own):
+Here are some exported screens from the prototype:
 
-![Screen 1](screenshots/screen1.png)  
-![Screen 2](screenshots/screen2.png)  
+![Home Screen](screenshots/Home V.1)  
+![Login Screen](screenshots/Log In_Empty.png)  
+![Dashboard](screenshots/Splash Page_01)  
 
-👉 *(Place your screenshots in a `screenshots/` folder inside this repository and update the paths above.)*
+
+👉 [View All Screenshots](screenshots/)
 
 ---
 
@@ -54,7 +56,7 @@ Check out the interactive version of my first prototype here:
 ## 👤 Author
 **Sachin Deepak S**  
 📧 sachindeepak4181@gmail.com  
-🔗 [Your LinkedIn / Portfolio]  
+🔗 https://www.linkedin.com/in/sachin-deepak-s
 
 ---
 ✨ This is my **first prototype** — feedback and suggestions are always welcome!

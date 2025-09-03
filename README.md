@@ -22,7 +22,7 @@ Here are some exported screens from the prototype:
 
 
 
-👉  [View All Screenshots](Food-delivery-app-ui/ui-Screenshots/)
+👉  [View All Screenshots](Food-delivery-app-ui/ui Screenshots/)
 
 
 ---

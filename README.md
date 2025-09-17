@@ -16,11 +16,9 @@ The goal of this project is to design a **clean, modern, and user-friendly inter
 ## 📸 Screenshots
 Here are some exported screens from the prototype:
 
-![Home Screen](./ui%20Screenshots/Home.png)  
-![Search Screen](./ui%20Screenshots/Search.png)  
-![Food Details Screen](./ui%20Screenshots/Food%20Details.png)  
-![Cart Screen](./ui%20Screenshots/Cart.png)  
-![Order Tracking Screen](./ui%20Screenshots/Order%20Tracking.png)  
+![Home Screen](https://github.com/Sachin-deepak-S/Food-delivery-app-ui/blob/main/ui%20Screenshots/Home%20V.1.png) 
+![Login Screen](https://github.com/Sachin-deepak-S/Food-delivery-app-ui/blob/main/ui%20Screenshots/Log%20In_Empty.png) 
+![Dashboard](https://github.com/Sachin-deepak-S/Food-delivery-app-ui/blob/main/ui%20Screenshots/Splash%20Page_01.png)
 
 👉 [View All Screenshots](./ui%20Screenshots)  
 
